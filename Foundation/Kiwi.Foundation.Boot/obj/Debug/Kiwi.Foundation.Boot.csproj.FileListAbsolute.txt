@@ -1,0 +1,5 @@
+c:\users\zeeshan\source\repos\Kiwi\Foundation\Kiwi.Foundation.Boot\bin\Debug\Kiwi.Foundation.Boot.dll
+c:\users\zeeshan\source\repos\Kiwi\Foundation\Kiwi.Foundation.Boot\bin\Debug\Kiwi.Foundation.Boot.pdb
+c:\users\zeeshan\source\repos\Kiwi\Foundation\Kiwi.Foundation.Boot\obj\Debug\Kiwi.Foundation.Boot.csproj.CoreCompileInputs.cache
+c:\users\zeeshan\source\repos\Kiwi\Foundation\Kiwi.Foundation.Boot\obj\Debug\Kiwi.Foundation.Boot.dll
+c:\users\zeeshan\source\repos\Kiwi\Foundation\Kiwi.Foundation.Boot\obj\Debug\Kiwi.Foundation.Boot.pdb

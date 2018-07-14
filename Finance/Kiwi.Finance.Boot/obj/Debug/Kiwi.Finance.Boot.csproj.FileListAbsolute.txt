@@ -1,0 +1,6 @@
+C:\Users\Zeeshan\source\repos\Kiwi\Finance\Kiwi.Finance.Boot\bin\Debug\Kiwi.Finance.Boot.dll
+C:\Users\Zeeshan\source\repos\Kiwi\Finance\Kiwi.Finance.Boot\bin\Debug\Kiwi.Finance.Boot.pdb
+C:\Users\Zeeshan\source\repos\Kiwi\Finance\Kiwi.Finance.Boot\obj\Debug\Kiwi.Finance.Boot.csprojAssemblyReference.cache
+C:\Users\Zeeshan\source\repos\Kiwi\Finance\Kiwi.Finance.Boot\obj\Debug\Kiwi.Finance.Boot.csproj.CoreCompileInputs.cache
+C:\Users\Zeeshan\source\repos\Kiwi\Finance\Kiwi.Finance.Boot\obj\Debug\Kiwi.Finance.Boot.dll
+C:\Users\Zeeshan\source\repos\Kiwi\Finance\Kiwi.Finance.Boot\obj\Debug\Kiwi.Finance.Boot.pdb

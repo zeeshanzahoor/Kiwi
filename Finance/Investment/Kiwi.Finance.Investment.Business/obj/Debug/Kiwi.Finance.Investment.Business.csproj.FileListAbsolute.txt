@@ -1,0 +1,12 @@
+C:\Users\Zeeshan\source\repos\Kiwi\Finance\Investment\Kiwi.Finance.Investment.Business\bin\Debug\Kiwi.Finance.Investment.Business.dll
+C:\Users\Zeeshan\source\repos\Kiwi\Finance\Investment\Kiwi.Finance.Investment.Business\bin\Debug\Kiwi.Finance.Investment.Business.pdb
+C:\Users\Zeeshan\source\repos\Kiwi\Finance\Investment\Kiwi.Finance.Investment.Business\bin\Debug\Kiwi.Branch.Backbone.dll
+C:\Users\Zeeshan\source\repos\Kiwi\Finance\Investment\Kiwi.Finance.Investment.Business\bin\Debug\Kiwi.Finance.Backbone.dll
+C:\Users\Zeeshan\source\repos\Kiwi\Finance\Investment\Kiwi.Finance.Investment.Business\bin\Debug\Kiwi.Foundation.Backbone.dll
+C:\Users\Zeeshan\source\repos\Kiwi\Finance\Investment\Kiwi.Finance.Investment.Business\bin\Debug\Kiwi.Branch.Backbone.pdb
+C:\Users\Zeeshan\source\repos\Kiwi\Finance\Investment\Kiwi.Finance.Investment.Business\bin\Debug\Kiwi.Foundation.Backbone.pdb
+C:\Users\Zeeshan\source\repos\Kiwi\Finance\Investment\Kiwi.Finance.Investment.Business\bin\Debug\Kiwi.Finance.Backbone.pdb
+C:\Users\Zeeshan\source\repos\Kiwi\Finance\Investment\Kiwi.Finance.Investment.Business\obj\Debug\Kiwi.Finance.Investment.Business.csproj.CoreCompileInputs.cache
+C:\Users\Zeeshan\source\repos\Kiwi\Finance\Investment\Kiwi.Finance.Investment.Business\obj\Debug\Kiwi.Finance.Investment.Business.csproj.CopyComplete
+C:\Users\Zeeshan\source\repos\Kiwi\Finance\Investment\Kiwi.Finance.Investment.Business\obj\Debug\Kiwi.Finance.Investment.Business.dll
+C:\Users\Zeeshan\source\repos\Kiwi\Finance\Investment\Kiwi.Finance.Investment.Business\obj\Debug\Kiwi.Finance.Investment.Business.pdb

@@ -1,0 +1,5 @@
+C:\Users\Zeeshan\source\repos\Kiwi\Finance\Kiwi.Finance.Backbone\bin\Debug\Kiwi.Finance.Backbone.dll
+C:\Users\Zeeshan\source\repos\Kiwi\Finance\Kiwi.Finance.Backbone\bin\Debug\Kiwi.Finance.Backbone.pdb
+C:\Users\Zeeshan\source\repos\Kiwi\Finance\Kiwi.Finance.Backbone\obj\Debug\Kiwi.Finance.Backbone.csproj.CoreCompileInputs.cache
+C:\Users\Zeeshan\source\repos\Kiwi\Finance\Kiwi.Finance.Backbone\obj\Debug\Kiwi.Finance.Backbone.dll
+C:\Users\Zeeshan\source\repos\Kiwi\Finance\Kiwi.Finance.Backbone\obj\Debug\Kiwi.Finance.Backbone.pdb

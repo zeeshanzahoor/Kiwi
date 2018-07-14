@@ -1,0 +1,9 @@
+C:\Users\Zeeshan\source\repos\Kiwi\Foundation\ORM\Kiwi.Foundation.ORM\bin\Debug\Kiwi.Foundation.ORM.dll
+C:\Users\Zeeshan\source\repos\Kiwi\Foundation\ORM\Kiwi.Foundation.ORM\bin\Debug\Kiwi.Foundation.ORM.pdb
+C:\Users\Zeeshan\source\repos\Kiwi\Foundation\ORM\Kiwi.Foundation.ORM\bin\Debug\Kiwi.Foundation.Backbone.dll
+C:\Users\Zeeshan\source\repos\Kiwi\Foundation\ORM\Kiwi.Foundation.ORM\bin\Debug\Kiwi.Foundation.Backbone.pdb
+C:\Users\Zeeshan\source\repos\Kiwi\Foundation\ORM\Kiwi.Foundation.ORM\obj\Debug\Kiwi.Foundation.ORM.csprojAssemblyReference.cache
+C:\Users\Zeeshan\source\repos\Kiwi\Foundation\ORM\Kiwi.Foundation.ORM\obj\Debug\Kiwi.Foundation.ORM.csproj.CoreCompileInputs.cache
+C:\Users\Zeeshan\source\repos\Kiwi\Foundation\ORM\Kiwi.Foundation.ORM\obj\Debug\Kiwi.Foundation.ORM.csproj.CopyComplete
+C:\Users\Zeeshan\source\repos\Kiwi\Foundation\ORM\Kiwi.Foundation.ORM\obj\Debug\Kiwi.Foundation.ORM.dll
+C:\Users\Zeeshan\source\repos\Kiwi\Foundation\ORM\Kiwi.Foundation.ORM\obj\Debug\Kiwi.Foundation.ORM.pdb

@@ -1,0 +1,483 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DirectedGraph DataVirtualized="True" Layout="Sugiyama" ZoomLevel="-1" xmlns="http://schemas.microsoft.com/vs/2009/dgml">
+  <Nodes>
+    <Node Id="(@14)" Category="CodeSchema_Assembly" Bounds="-1165.16374381084,-681.844604262386,126.106666666667,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(a43fff13-60fa-47a1-bb1c-ddab4c60ce98.OutputPath)" Group="Collapsed" Label="Kiwi.Main.dll" UseManualLocation="True">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@33)" Category="CodeSchema_Assembly" Bounds="-2377.19073394401,490.807632088662,167.406666666667,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(0041f88a-461b-420e-8643-bee79c449f1a.OutputPath)" Group="Collapsed" Label="Kiwi.Finance.Boot.dll" UseManualLocation="True">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@34)" Category="CodeSchema_Assembly" Bounds="42.6147151505176,481.050056836226,163.416666666667,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(a73ed1d3-97e3-4c41-ab8b-0712223286c1.OutputPath)" Group="Collapsed" Label="Kiwi.Branch.Boot.dll" UseManualLocation="True">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@35)" Category="CodeSchema_Assembly" Bounds="-1147.2819093706,487.459290326552,187.57,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(7750de2d-7d05-451d-ab90-32622657c1ff.OutputPath)" Group="Collapsed" Label="Kiwi.Foundation.Boot.dll" UseManualLocation="True">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@5)" Category="CodeSchema_Assembly" Bounds="-2573.27839106225,309.96992551674,241.933333333332,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(444e46d6-e31c-4a74-b99f-3458f73a2486.OutputPath)" Group="Collapsed" Label="Kiwi.Finance.Investment.Service.dll" UseManualLocation="True">
+      <Category Ref="CodeMap_WebProject" />
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="@11" Category="CodeSchema_Assembly" Bounds="2.60950637557124,-493.434267690559,214.206666666667,24.9999999999999" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(0d313a8e-a108-41a2-a435-23ea735857f9.OutputPath)" Group="Collapsed" Label="Kiwi.Foundation.Backbone.dll" UseManualLocation="True">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="@13" Category="CodeSchema_Assembly" Bounds="-1153.65373760726,326.589079096817,189.563333333333,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(ac5a29b7-1674-4933-ba57-035cfae80371.OutputPath)" Group="Collapsed" Label="Kiwi.Foundation.ORM.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="@16" Category="CodeSchema_Assembly" Bounds="-886.127747067969,306.35783610462,267.603333333334,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(8d5a92f4-0be9-48ce-b597-256e872908dc.OutputPath)" Group="Collapsed" Label="Kiwi.Foundation.RuleEngine.Services.dll">
+      <Category Ref="CodeMap_WebProject" />
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="@18" Category="CodeSchema_Assembly" Bounds="-1468.8539472152,354.045278898666,232.93,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(35751279-12c2-41d2-a442-ccea42caa802.OutputPath)" Group="Collapsed" Label="Kiwi.Foundation.BPM.Services.dll">
+      <Category Ref="CodeMap_WebProject" />
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="@2" Category="CodeSchema_Assembly" Bounds="167.932241520303,313.829927616392,217.753333333333,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(2926d28d-0449-44e7-99b3-12c2c0c48e64.OutputPath)" Group="Collapsed" Label="Kiwi.Branch.QMatic.Service.dll">
+      <Category Ref="CodeMap_WebProject" />
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="@20" Category="CodeSchema_Assembly" Bounds="-200.38156852931,310.74629264118,235.596666666665,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(f00fa02b-62b9-4ab5-8df8-f4c93ac86ea2.OutputPath)" Group="Collapsed" Label="Kiwi.Branch.Customer.Services.dll">
+      <Category Ref="CodeMap_WebProject" />
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="@22" Category="CodeSchema_Assembly" Bounds="167.9322415203,368.830027616392,224.38,24.9999999999999" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(804b2a06-5824-451a-9f9c-7a6ad26c6559.OutputPath)" Group="Collapsed" Label="Kiwi.Branch.QMatic.Business.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="@24" Category="CodeSchema_Assembly" Bounds="-2248.13455263438,362.140982195374,240.68,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(0f00f4ae-6bc9-47e7-af98-7a46948ecfb1.OutputPath)" Group="Collapsed" Label="Kiwi.Finance.Insurance.Business.dll" UseManualLocation="True">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="@26" Category="CodeSchema_Assembly" Bounds="-886.127747067969,361.35793610462,269.136666666667,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(53e0cb1d-f61d-46c5-876e-e565f944f89f.OutputPath)" Group="Collapsed" Label="Kiwi.Foundation.RuleEngine.Business.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="@28" Category="CodeSchema_Assembly" Bounds="-1468.8539472152,299.045178898666,234.463333333333,25.0000000000001" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(79bcfca8-b076-46d8-a49c-cadc9c6a0b79.OutputPath)" Group="Collapsed" Label="Kiwi.Foundation.BPM.Business.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="@30" Category="CodeSchema_Assembly" Bounds="-200.381568529311,365.74639264118,237.129999999998,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(7322aa8c-c8fe-44ea-82ee-2decffb0a55f.OutputPath)" Group="Collapsed" Label="Kiwi.Branch.Customer.Business.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="@32" Category="CodeSchema_Assembly" Bounds="-2573.27839106225,364.96992551674,248.559999999999,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(75a29da3-c8f0-4a16-9a75-e7d05b306eca.OutputPath)" Group="Collapsed" Label="Kiwi.Finance.Investment.Business.dll" UseManualLocation="True">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="@4" Category="CodeSchema_Assembly" Bounds="-2248.13455263438,307.140882195374,234.223333333333,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(1ace3c6e-3493-47c7-ac50-f42efe9649d6.OutputPath)" Group="Collapsed" Label="Kiwi.Finance.Insurence.Service.dll" UseManualLocation="True">
+      <Category Ref="CodeMap_WebProject" />
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="@7" Category="CodeSchema_Assembly" Bounds="-2372.94916780651,-463.952037119887,194.043333333333,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(acd98d63-f356-4dc4-a357-c799afaf5e00.OutputPath)" Group="Collapsed" Label="Kiwi.Finance.Backbone.dll" UseManualLocation="True">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="@9" Category="CodeSchema_Assembly" Bounds="-1184.48152688408,-494.079858461778,190.053333333333,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(aaebf2bc-7c73-4ac1-b2cf-1ffd5f9222d7.OutputPath)" Group="Collapsed" Label="Kiwi.Branch.Backbone.dll" UseManualLocation="True">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="BPM{3F6A6070-8D05-44AA-A73D-6C810DBCE605}" Category="CodeMap_SolutionFolder" Bounds="-1488.8539472152,259.045078898666,274.463333333333,140.0003" Group="Expanded" Label="BPM" UseManualLocation="True" />
+    <Node Id="Customer{DE3E8BC0-D1A5-4537-A266-583B04376564}" Category="CodeMap_SolutionFolder" Bounds="-220.381568529311,270.74619264118,277.129999999998,140.0003" Group="Expanded" Label="Customer" UseManualLocation="True" />
+    <Node Id="Insurance{B948D6EA-0B02-4786-976E-97B581EB4F35}" Category="CodeMap_SolutionFolder" Bounds="-2268.13455263438,267.140782195374,280.680000000001,140.0003" Group="Expanded" Label="Insurance" UseManualLocation="True" />
+    <Node Id="Investment{FD6C1DB3-545B-4ED0-9E28-FD5C4BFE2EAB}" Category="CodeMap_SolutionFolder" Bounds="-2593.27839106225,269.96982551674,288.56,140.020654768904" Group="Expanded" Label="Investment" UseManualLocation="True" />
+    <Node Id="ORM{F7F48AAE-51F3-4831-BA48-61AF9C5A35A7}" Category="CodeMap_SolutionFolder" Bounds="-1173.65373760726,286.588979096817,229.563333333334,85.0002000000001" Group="Expanded" Label="ORM" UseManualLocation="True" />
+    <Node Id="QMatic{6C3D96C2-03CC-4DAC-846F-665D12D9B586}" Category="CodeMap_SolutionFolder" Bounds="147.9322415203,273.829827616392,264.38,140.0003" Group="Expanded" Label="QMatic" UseManualLocation="True" />
+    <Node Id="RuleEngine{F0274C11-AD0F-402B-B57B-A732E6485494}" Category="CodeMap_SolutionFolder" Bounds="-906.127747067969,266.35773610462,309.136666666667,140.0003" Group="Expanded" Label="RuleEngine" UseManualLocation="True" />
+  </Nodes>
+  <Links>
+    <Link Source="@13" Target="@11" Category="CodeMap_ProjectReference" Bounds="-1041.05878374536,-463.264589029878,1125.59121860385,789.853668126695" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="1">
+      <Category Ref="Implements" />
+    </Link>
+    <Link Source="@16" Target="@11" Category="CodeMap_ProjectReference" Bounds="-738.853221079179,-462.312972672969,828.495493734663,768.670808777588" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="2">
+      <Category Ref="References" />
+    </Link>
+    <Link Source="@16" Target="@7" Category="CodeMap_ProjectReference" Bounds="-2243.17183956561,-434.891269210914,1466.12191954959,741.249105315534" />
+    <Link Source="@16" Target="@9" Category="CodeMap_ProjectReference" Bounds="-1072.10487865929,-462.406495960224,459.595793379887,507.896606180288" />
+    <Link Source="@18" Target="@11" Category="CodeMap_ProjectReference" Bounds="-1329.32680672031,-464.145595474113,1408.06502903895,763.190774372778" />
+    <Link Source="@18" Target="@7" Category="CodeMap_ProjectReference" Bounds="-2253.85900843981,-433.219773377031,886.339951072574,732.264952275696" />
+    <Link Source="@18" Target="@9" Category="CodeMap_ProjectReference" Bounds="-1182.00295924759,-460.215473426379,88.7967313950178,505.705583646443" />
+    <Link Source="@2" Target="@11" Category="CodeMap_ProjectReference" Bounds="114.124466656192,-459.621088331921,160.097059521123,773.451015948313" />
+    <Link Source="@2" Target="@7" Category="CodeMap_ProjectReference" Bounds="-2226.29234656759,-436.328921430331,2462.07535474233,750.158849046723" />
+    <Link Source="@2" Target="@9" Category="CodeMap_ProjectReference" Bounds="-1081.02905008189,-460.735796548873,341.20082745675,844.074463801926" />
+    <Link Source="@20" Target="@11" Category="CodeMap_ProjectReference" Bounds="-79.5942286781873,-459.68103803816,184.224985030684,770.42733067934" />
+    <Link Source="@20" Target="@7" Category="CodeMap_ProjectReference" Bounds="-2232.05099264457,-435.954671578686,2114.07746128938,746.700964219866" />
+    <Link Source="@20" Target="@9" Category="CodeMap_ProjectReference" Bounds="-1088.07829123909,-460.098280644252,54.0486021196343,843.437031230638" />
+    <Link Source="@22" Target="@11" Category="CodeMap_ProjectReference" Bounds="113.928137544861,-459.605040667905,163.723727393414,828.435068284296" />
+    <Link Source="@22" Target="@7" Category="CodeMap_ProjectReference" Bounds="-2229.00410367988,-436.16400763871,2470.76021901161,804.994035255102" />
+    <Link Source="@22" Target="@9" Category="CodeMap_ProjectReference" Bounds="-1081.42974137487,-460.677848324836,345.168485431287,899.016615577889" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="1">
+      <Category Ref="Implements" />
+    </Link>
+    <Link Source="@24" Target="@11" Category="CodeMap_ProjectReference" Bounds="-2095.10445038093,-465.219841306408,2163.72079366166,827.360823501782" />
+    <Link Source="@24" Target="@7" Category="CodeMap_ProjectReference" Bounds="-2272.09751172802,-430.093335027783,142.061490139154,792.234317223156" />
+    <Link Source="@24" Target="@9" Category="CodeMap_ProjectReference" Bounds="-1907.51132459268,-463.436448165636,795.516795053295,640.354896247648" />
+    <Link Source="@26" Target="@11" Category="CodeMap_ProjectReference" Bounds="-738.964653136394,-462.094382882386,829.694785736706,823.452318987006" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="1">
+      <Category Ref="Implements" />
+    </Link>
+    <Link Source="@26" Target="@7" Category="CodeMap_ProjectReference" Bounds="-2244.92521538312,-434.66705202398,1470.27799014644,796.024988128599" />
+    <Link Source="@26" Target="@9" Category="CodeMap_ProjectReference" Bounds="-1073.45679488307,-462.128917957308,462.74459421961,562.619128177372" />
+    <Link Source="@28" Target="@11" Category="CodeMap_ProjectReference" Bounds="-1330.06814502191,-463.919182907818,1410.44134925849,817.964461806483" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="1">
+      <Category Ref="Implements" />
+    </Link>
+    <Link Source="@28" Target="@7" Category="CodeMap_ProjectReference" Bounds="-2255.06325743662,-432.987470470492,889.316462013605,787.032749369158" />
+    <Link Source="@28" Target="@9" Category="CodeMap_ProjectReference" Bounds="-1181.45544509527,-460.190214893688,88.6197896360534,560.680425113752" />
+    <Link Source="@30" Target="@11" Category="CodeMap_ProjectReference" Bounds="-79.0300560837753,-459.649885969852,183.998160227858,825.396278611032" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="2">
+      <Category Ref="References" />
+    </Link>
+    <Link Source="@30" Target="@7" Category="CodeMap_ProjectReference" Bounds="-2234.45343300466,-435.768705572644,2119.58101469445,801.515098213824" />
+    <Link Source="@30" Target="@9" Category="CodeMap_ProjectReference" Bounds="-1088.14172604817,-460.09662396265,54.9156748505179,898.435474549036" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="1">
+      <Category Ref="Implements" />
+    </Link>
+    <Link Source="@32" Target="@11" Category="CodeMap_ProjectReference" Bounds="-2411.73868213057,-465.571714814818,2475.65918195166,830.541640331558" />
+    <Link Source="@32" Target="@7" Category="CodeMap_ProjectReference" Bounds="-2446.38851194028,-430.142018076819,166.011684897294,795.111943593559" />
+    <Link Source="@32" Target="@9" Category="CodeMap_ProjectReference" Bounds="-2301.34560415417,-464.830471558468,1180.61948528868,632.358702514447" />
+    <Link Source="@4" Target="@11" Category="CodeMap_ProjectReference" Bounds="-2096.0365432428,-465.406192224631,2162.28773734296,772.547074420005" />
+    <Link Source="@4" Target="@7" Category="CodeMap_ProjectReference" Bounds="-2271.91629290179,-430.10686280242,138.544393417971,737.247744997793" />
+    <Link Source="@4" Target="@9" Category="CodeMap_ProjectReference" Bounds="-1909.2876388208,-463.744443184036,795.603944273564,585.662791266049" />
+    <Link Source="BPM{3F6A6070-8D05-44AA-A73D-6C810DBCE605}" Target="@18" Category="Contains" FetchingParent="BPM{3F6A6070-8D05-44AA-A73D-6C810DBCE605}" />
+    <Link Source="BPM{3F6A6070-8D05-44AA-A73D-6C810DBCE605}" Target="@28" Category="Contains" FetchingParent="BPM{3F6A6070-8D05-44AA-A73D-6C810DBCE605}" />
+    <Link Source="Customer{DE3E8BC0-D1A5-4537-A266-583B04376564}" Target="@20" Category="Contains" FetchingParent="Customer{DE3E8BC0-D1A5-4537-A266-583B04376564}" />
+    <Link Source="Customer{DE3E8BC0-D1A5-4537-A266-583B04376564}" Target="@30" Category="Contains" FetchingParent="Customer{DE3E8BC0-D1A5-4537-A266-583B04376564}" />
+    <Link Source="Insurance{B948D6EA-0B02-4786-976E-97B581EB4F35}" Target="@24" Category="Contains" FetchingParent="Insurance{B948D6EA-0B02-4786-976E-97B581EB4F35}" />
+    <Link Source="Insurance{B948D6EA-0B02-4786-976E-97B581EB4F35}" Target="@4" Category="Contains" FetchingParent="Insurance{B948D6EA-0B02-4786-976E-97B581EB4F35}" />
+    <Link Source="Investment{FD6C1DB3-545B-4ED0-9E28-FD5C4BFE2EAB}" Target="(@5)" Category="Contains" FetchingParent="Investment{FD6C1DB3-545B-4ED0-9E28-FD5C4BFE2EAB}" />
+    <Link Source="Investment{FD6C1DB3-545B-4ED0-9E28-FD5C4BFE2EAB}" Target="@32" Category="Contains" FetchingParent="Investment{FD6C1DB3-545B-4ED0-9E28-FD5C4BFE2EAB}" />
+    <Link Source="ORM{F7F48AAE-51F3-4831-BA48-61AF9C5A35A7}" Target="@13" Category="Contains" FetchingParent="ORM{F7F48AAE-51F3-4831-BA48-61AF9C5A35A7}" />
+    <Link Source="QMatic{6C3D96C2-03CC-4DAC-846F-665D12D9B586}" Target="@2" Category="Contains" FetchingParent="QMatic{6C3D96C2-03CC-4DAC-846F-665D12D9B586}" />
+    <Link Source="QMatic{6C3D96C2-03CC-4DAC-846F-665D12D9B586}" Target="@22" Category="Contains" FetchingParent="QMatic{6C3D96C2-03CC-4DAC-846F-665D12D9B586}" />
+    <Link Source="RuleEngine{F0274C11-AD0F-402B-B57B-A732E6485494}" Target="@16" Category="Contains" FetchingParent="RuleEngine{F0274C11-AD0F-402B-B57B-A732E6485494}" />
+    <Link Source="RuleEngine{F0274C11-AD0F-402B-B57B-A732E6485494}" Target="@26" Category="Contains" FetchingParent="RuleEngine{F0274C11-AD0F-402B-B57B-A732E6485494}" />
+  </Links>
+  <Categories>
+    <Category Id="CodeMap_ProjectReference" Label="Project Reference" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Referenced By" OutgoingActionLabel="References" />
+    <Category Id="CodeMap_SolutionFolder" Label="Solution Folder" CanBeDataDriven="True" IsProviderRoot="False" NavigationActionLabel="Solution Folder" />
+    <Category Id="CodeMap_WebProject" Label="Web Project" CanBeDataDriven="True" IsProviderRoot="False" NavigationActionLabel="Web Projects" />
+    <Category Id="CodeSchema_Assembly" Label="Assembly" BasedOn="File" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" Icon="CodeSchema_Assembly" NavigationActionLabel="Assemblies" />
+    <Category Id="Contains" Label="Contains" Description="Whether the source of the link contains the target object" CanBeDataDriven="False" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Contained By" IsContainment="True" OutgoingActionLabel="Contains" />
+    <Category Id="File" Label="File" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" Icon="File" NavigationActionLabel="Files" />
+    <Category Id="FileSystem.Category.FileOfType.dll" BasedOn="CodeSchema_Assembly" CanBeDataDriven="True" IsProviderRoot="False" />
+    <Category Id="Implements" Label="Implements" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Implemented by" OutgoingActionLabel="Implements" />
+    <Category Id="References" Label="References" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Referenced By" OutgoingActionLabel="References" />
+  </Categories>
+  <Properties>
+    <Property Id="Bounds" DataType="System.Windows.Rect" />
+    <Property Id="CanBeDataDriven" Label="CanBeDataDriven" Description="CanBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CanLinkedNodesBeDataDriven" Label="CanLinkedNodesBeDataDriven" Description="CanLinkedNodesBeDataDriven" DataType="System.Boolean" />
+    <Property Id="DataVirtualized" Label="Data Virtualized" Description="If true, the graph can contain nodes and links that represent data for virtualized nodes/links (i.e. not actually created in the graph)." DataType="System.Boolean" />
+    <Property Id="DefaultAction" Label="DefaultAction" Description="DefaultAction" DataType="System.String" />
+    <Property Id="DelayedChildNodesState" Label="Delayed Child Nodes State" Description="Unspecified if the delayed child nodes state is not specified. NotFetched if the group contains child nodes that are not fetched into the graph yet. Fetched if the group has all its delayed child nodes already fetched." DataType="Microsoft.VisualStudio.GraphModel.DelayedDataState" />
+    <Property Id="DelayedCrossGroupLinksState" Label="Delayed Cross-Group Links State" Description="Unspecified if the delayed cross-group links state is not specified. NotFetched if delayed cross-group links on this node are not fetched into the graph yet. Fetched if all delayed cross-group links have already fetched." DataType="Microsoft.VisualStudio.GraphModel.DelayedDataState" />
+    <Property Id="Expression" DataType="System.String" />
+    <Property Id="FetchingParent" DataType="Microsoft.VisualStudio.GraphModel.GraphNodeId" />
+    <Property Id="FilePath" Label="File Path" Description="File Path" DataType="System.String" />
+    <Property Id="Group" Label="Group" Description="Display the node as a group" DataType="Microsoft.VisualStudio.GraphModel.GraphGroupStyle" />
+    <Property Id="GroupLabel" DataType="System.String" />
+    <Property Id="Icon" Label="Icon" Description="Icon" DataType="System.String" />
+    <Property Id="IncomingActionLabel" Label="IncomingActionLabel" Description="IncomingActionLabel" DataType="System.String" />
+    <Property Id="IsContainment" DataType="System.Boolean" />
+    <Property Id="IsEnabled" DataType="System.Boolean" />
+    <Property Id="IsProviderRoot" Label="IsProviderRoot" Description="IsProviderRoot" DataType="System.Boolean" />
+    <Property Id="IsSourceVirtualized" Label="Link Source Virtualized" Description="If true, the link source end contains data for virtualized nodes/links (i.e. not actually created in the graph)." DataType="System.Boolean" />
+    <Property Id="IsTargetVirtualized" Label="Link Target Virtualized" Description="If true, the link target end contains data for virtualized nodes/links (i.e. not actually created in the graph)." DataType="System.Boolean" />
+    <Property Id="Label" Label="Label" Description="Displayable label of an Annotatable object" DataType="System.String" />
+    <Property Id="Layout" DataType="System.String" />
+    <Property Id="NavigationActionLabel" Label="NavigationActionLabel" Description="NavigationActionLabel" DataType="System.String" />
+    <Property Id="OutgoingActionLabel" Label="OutgoingActionLabel" Description="OutgoingActionLabel" DataType="System.String" />
+    <Property Id="TargetType" DataType="System.Type" />
+    <Property Id="UseManualLocation" DataType="System.Boolean" />
+    <Property Id="Value" DataType="System.String" />
+    <Property Id="ValueLabel" DataType="System.String" />
+    <Property Id="Visibility" Label="Visibility" Description="Defines whether a node in the graph is visible or not" DataType="System.Windows.Visibility" />
+    <Property Id="Weight" Label="Weight" Description="Weight" DataType="System.Double" />
+    <Property Id="ZoomLevel" DataType="System.String" />
+  </Properties>
+  <QualifiedNames>
+    <Name Id="Assembly" Label="Assembly" ValueType="Uri" />
+  </QualifiedNames>
+  <IdentifierAliases>
+    <Alias n="1" Uri="Assembly=$(2926d28d-0449-44e7-99b3-12c2c0c48e64.OutputPathUri)" />
+    <Alias n="2" Id="(@1)" />
+    <Alias n="3" Uri="Assembly=$(1ace3c6e-3493-47c7-ac50-f42efe9649d6.OutputPathUri)" />
+    <Alias n="4" Id="(@3)" />
+    <Alias n="5" Uri="Assembly=$(444e46d6-e31c-4a74-b99f-3458f73a2486.OutputPathUri)" />
+    <Alias n="6" Uri="Assembly=$(acd98d63-f356-4dc4-a357-c799afaf5e00.OutputPathUri)" />
+    <Alias n="7" Id="(@6)" />
+    <Alias n="8" Uri="Assembly=$(aaebf2bc-7c73-4ac1-b2cf-1ffd5f9222d7.OutputPathUri)" />
+    <Alias n="9" Id="(@8)" />
+    <Alias n="10" Uri="Assembly=$(0d313a8e-a108-41a2-a435-23ea735857f9.OutputPathUri)" />
+    <Alias n="11" Id="(@10)" />
+    <Alias n="12" Uri="Assembly=$(ac5a29b7-1674-4933-ba57-035cfae80371.OutputPathUri)" />
+    <Alias n="13" Id="(@12)" />
+    <Alias n="14" Uri="Assembly=$(a43fff13-60fa-47a1-bb1c-ddab4c60ce98.OutputPathUri)" />
+    <Alias n="15" Uri="Assembly=$(8d5a92f4-0be9-48ce-b597-256e872908dc.OutputPathUri)" />
+    <Alias n="16" Id="(@15)" />
+    <Alias n="17" Uri="Assembly=$(35751279-12c2-41d2-a442-ccea42caa802.OutputPathUri)" />
+    <Alias n="18" Id="(@17)" />
+    <Alias n="19" Uri="Assembly=$(f00fa02b-62b9-4ab5-8df8-f4c93ac86ea2.OutputPathUri)" />
+    <Alias n="20" Id="(@19)" />
+    <Alias n="21" Uri="Assembly=$(804b2a06-5824-451a-9f9c-7a6ad26c6559.OutputPathUri)" />
+    <Alias n="22" Id="(@21)" />
+    <Alias n="23" Uri="Assembly=$(0f00f4ae-6bc9-47e7-af98-7a46948ecfb1.OutputPathUri)" />
+    <Alias n="24" Id="(@23)" />
+    <Alias n="25" Uri="Assembly=$(53e0cb1d-f61d-46c5-876e-e565f944f89f.OutputPathUri)" />
+    <Alias n="26" Id="(@25)" />
+    <Alias n="27" Uri="Assembly=$(79bcfca8-b076-46d8-a49c-cadc9c6a0b79.OutputPathUri)" />
+    <Alias n="28" Id="(@27)" />
+    <Alias n="29" Uri="Assembly=$(7322aa8c-c8fe-44ea-82ee-2decffb0a55f.OutputPathUri)" />
+    <Alias n="30" Id="(@29)" />
+    <Alias n="31" Uri="Assembly=$(75a29da3-c8f0-4a16-9a75-e7d05b306eca.OutputPathUri)" />
+    <Alias n="32" Id="(@31)" />
+    <Alias n="33" Uri="Assembly=$(0041f88a-461b-420e-8643-bee79c449f1a.OutputPathUri)" />
+    <Alias n="34" Uri="Assembly=$(a73ed1d3-97e3-4c41-ab8b-0712223286c1.OutputPathUri)" />
+    <Alias n="35" Uri="Assembly=$(7750de2d-7d05-451d-ab90-32622657c1ff.OutputPathUri)" />
+  </IdentifierAliases>
+  <Styles>
+    <Style TargetType="Node" GroupLabel="Results" ValueLabel="True">
+      <Condition Expression="HasCategory('QueryResult')" />
+      <Setter Property="Background" Value="#FFBCFFBE" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Test Project" ValueLabel="Test Project">
+      <Condition Expression="HasCategory('CodeMap_TestProject')" />
+      <Setter Property="Icon" Value="CodeMap_TestProject" />
+      <Setter Property="Background" Value="#FF307A69" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Web Project" ValueLabel="Web Project">
+      <Condition Expression="HasCategory('CodeMap_WebProject')" />
+      <Setter Property="Icon" Value="CodeMap_WebProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Windows Store Project" ValueLabel="Windows Store Project">
+      <Condition Expression="HasCategory('CodeMap_WindowsStoreProject')" />
+      <Setter Property="Icon" Value="CodeMap_WindowsStoreProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Phone Project" ValueLabel="Phone Project">
+      <Condition Expression="HasCategory('CodeMap_PhoneProject')" />
+      <Setter Property="Icon" Value="CodeMap_PhoneProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Portable Library" ValueLabel="Portable Library">
+      <Condition Expression="HasCategory('CodeMap_PortableLibraryProject')" />
+      <Setter Property="Icon" Value="CodeMap_PortableLibraryProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="WPF Project" ValueLabel="WPF Project">
+      <Condition Expression="HasCategory('CodeMap_WpfProject')" />
+      <Setter Property="Icon" Value="CodeMap_WpfProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="VSIX Project" ValueLabel="VSIX Project">
+      <Condition Expression="HasCategory('CodeMap_VsixProject')" />
+      <Setter Property="Icon" Value="CodeMap_VsixProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Modeling Project" ValueLabel="Modeling Project">
+      <Condition Expression="HasCategory('CodeMap_ModelingProject')" />
+      <Setter Property="Icon" Value="CodeMap_ModelingProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Assembly" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Assembly')" />
+      <Setter Property="Background" Value="#FF094167" />
+      <Setter Property="Stroke" Value="#FF094167" />
+      <Setter Property="Icon" Value="CodeSchema_Assembly" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Namespace" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Namespace')" />
+      <Setter Property="Background" Value="#FF0E619A" />
+      <Setter Property="Stroke" Value="#FF0E619A" />
+      <Setter Property="Icon" Value="CodeSchema_Namespace" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Interface" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Interface')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Interface" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Struct" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Struct')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Struct" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Enumeration" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Enum')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Enum" />
+      <Setter Property="LayoutSettings" Value="List" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Delegate" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Delegate')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Delegate" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Class" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Type')" />
+      <Setter Property="Background" Value="#FF0E70C0" />
+      <Setter Property="Stroke" Value="#FF0E70C0" />
+      <Setter Property="Icon" Value="CodeSchema_Class" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Property" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Property')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Property" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Method" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Method') Or HasCategory('CodeSchema_CallStackUnresolvedMethod')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Method" />
+      <Setter Property="LayoutSettings" Value="List" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Event" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Event')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Event" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Field" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Field')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Field" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Out Parameter" ValueLabel="Has category">
+      <Condition Expression="CodeSchemaProperty_IsOut = 'True'" />
+      <Setter Property="Icon" Value="CodeSchema_OutParameter" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Parameter" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Parameter')" />
+      <Setter Property="Icon" Value="CodeSchema_Parameter" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Local Variable" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_LocalExpression')" />
+      <Setter Property="Icon" Value="CodeSchema_LocalExpression" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Externals" ValueLabel="Has category">
+      <Condition Expression="HasCategory('Externals')" />
+      <Setter Property="Background" Value="#FF424242" />
+      <Setter Property="Stroke" Value="#FF424242" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Inherits From" ValueLabel="True">
+      <Condition Expression="HasCategory('InheritsFrom')" />
+      <Setter Property="Stroke" Value="#FF00A600" />
+      <Setter Property="StrokeDashArray" Value="2 0" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Implements" ValueLabel="True">
+      <Condition Expression="HasCategory('Implements')" />
+      <Setter Property="Stroke" Value="#8000A600" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Calls" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_Calls')" />
+      <Setter Property="Stroke" Value="#FFFF00FF" />
+      <Setter Property="StrokeDashArray" Value="2 0" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Function Pointer" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_FunctionPointer')" />
+      <Setter Property="Stroke" Value="#FFFF00FF" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Field Read" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_FieldRead')" />
+      <Setter Property="Stroke" Value="#FF00AEEF" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Field Write" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_FieldWrite')" />
+      <Setter Property="Stroke" Value="#FF00AEEF" />
+      <Setter Property="DrawArrow" Value="true" />
+      <Setter Property="IsHidden" Value="false" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Inherits From" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('InheritsFrom') And Target.HasCategory('CodeSchema_Class')" />
+      <Setter Property="TargetDecorator" Value="OpenArrow" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Implements" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('Implements') And Target.HasCategory('CodeSchema_Interface')" />
+      <Setter Property="TargetDecorator" Value="OpenArrow" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Comment Link" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="Source.HasCategory('Comment')" />
+      <Setter Property="Stroke" Value="#FFE5C365" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Cursor Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="IsCursorLocation" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Disabled Breakpoint Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="DisabledBreakpointCount" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Enabled Breakpoint Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="EnabledBreakpointCount" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Instruction Pointer Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="IsInstructionPointerLocation" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Current Callstack Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="IsCurrentCallstackFrame" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Return" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('CodeSchema_ReturnTypeLink')" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="References" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('References')" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Uses Attribute" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('CodeSchema_AttributeUse')" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Solution Folder" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('CodeMap_SolutionFolder')" />
+      <Setter Property="Background" Value="#FFDEBA83" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Project Reference" ValueLabel="Project Reference">
+      <Condition Expression="HasCategory('CodeMap_ProjectReference')" />
+      <Setter Property="Stroke" Value="#9A9A9A" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="External Reference" ValueLabel="External Reference">
+      <Condition Expression="HasCategory('CodeMap_ExternalReference')" />
+      <Setter Property="Stroke" Value="#9A9A9A" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+  </Styles>
+  <Paths>
+    <Path Id="0041f88a-461b-420e-8643-bee79c449f1a.OutputPath" Value="C:\Users\Zeeshan\source\repos\Kiwi\Finance\Kiwi.Finance.Boot\bin\Debug\Kiwi.Finance.Boot.dll" />
+    <Path Id="0041f88a-461b-420e-8643-bee79c449f1a.OutputPathUri" Value="file:///C:/Users/Zeeshan/source/repos/Kiwi/Finance/Kiwi.Finance.Boot/bin/Debug/Kiwi.Finance.Boot.dll" />
+    <Path Id="0d313a8e-a108-41a2-a435-23ea735857f9.OutputPath" Value="c:\users\zeeshan\source\repos\Kiwi\Foundation\Kiwi.Foundation.Backbone\bin\Debug\Kiwi.Foundation.Backbone.dll" />
+    <Path Id="0d313a8e-a108-41a2-a435-23ea735857f9.OutputPathUri" Value="file:///c:/users/zeeshan/source/repos/Kiwi/Foundation/Kiwi.Foundation.Backbone/bin/Debug/Kiwi.Foundation.Backbone.dll" />
+    <Path Id="0f00f4ae-6bc9-47e7-af98-7a46948ecfb1.OutputPath" Value="C:\Users\Zeeshan\source\repos\Kiwi\Finance\Insurance\Kiwi.Finance.Insurance.Business\bin\Debug\Kiwi.Finance.Insurance.Business.dll" />
+    <Path Id="0f00f4ae-6bc9-47e7-af98-7a46948ecfb1.OutputPathUri" Value="file:///C:/Users/Zeeshan/source/repos/Kiwi/Finance/Insurance/Kiwi.Finance.Insurance.Business/bin/Debug/Kiwi.Finance.Insurance.Business.dll" />
+    <Path Id="1ace3c6e-3493-47c7-ac50-f42efe9649d6.OutputPath" Value="C:\Users\Zeeshan\source\repos\Kiwi\Finance\Insurance\Kiwi.Finance.Insurence.Service\bin\Kiwi.Finance.Insurence.Service.dll" />
+    <Path Id="1ace3c6e-3493-47c7-ac50-f42efe9649d6.OutputPathUri" Value="file:///C:/Users/Zeeshan/source/repos/Kiwi/Finance/Insurance/Kiwi.Finance.Insurence.Service/bin/Kiwi.Finance.Insurence.Service.dll" />
+    <Path Id="2926d28d-0449-44e7-99b3-12c2c0c48e64.OutputPath" Value="C:\Users\Zeeshan\source\repos\Kiwi\Branch\QMatic\Kiwi.Branch.QMatic.Service\bin\Kiwi.Branch.QMatic.Service.dll" />
+    <Path Id="2926d28d-0449-44e7-99b3-12c2c0c48e64.OutputPathUri" Value="file:///C:/Users/Zeeshan/source/repos/Kiwi/Branch/QMatic/Kiwi.Branch.QMatic.Service/bin/Kiwi.Branch.QMatic.Service.dll" />
+    <Path Id="35751279-12c2-41d2-a442-ccea42caa802.OutputPath" Value="C:\Users\Zeeshan\source\repos\Kiwi\Foundation\BPM\Kiwi.Foundation.BPM.Services\bin\Kiwi.Foundation.BPM.Services.dll" />
+    <Path Id="35751279-12c2-41d2-a442-ccea42caa802.OutputPathUri" Value="file:///C:/Users/Zeeshan/source/repos/Kiwi/Foundation/BPM/Kiwi.Foundation.BPM.Services/bin/Kiwi.Foundation.BPM.Services.dll" />
+    <Path Id="444e46d6-e31c-4a74-b99f-3458f73a2486.OutputPath" Value="C:\Users\Zeeshan\source\repos\Kiwi\Finance\Investment\Kiwi.Finance.Investment.Service\bin\Kiwi.Finance.Investment.Service.dll" />
+    <Path Id="444e46d6-e31c-4a74-b99f-3458f73a2486.OutputPathUri" Value="file:///C:/Users/Zeeshan/source/repos/Kiwi/Finance/Investment/Kiwi.Finance.Investment.Service/bin/Kiwi.Finance.Investment.Service.dll" />
+    <Path Id="53e0cb1d-f61d-46c5-876e-e565f944f89f.OutputPath" Value="C:\Users\Zeeshan\source\repos\Kiwi\Foundation\RuleEngine\Kiwi.Foundation.RuleEngine.Business\bin\Debug\Kiwi.Foundation.RuleEngine.Business.dll" />
+    <Path Id="53e0cb1d-f61d-46c5-876e-e565f944f89f.OutputPathUri" Value="file:///C:/Users/Zeeshan/source/repos/Kiwi/Foundation/RuleEngine/Kiwi.Foundation.RuleEngine.Business/bin/Debug/Kiwi.Foundation.RuleEngine.Business.dll" />
+    <Path Id="7322aa8c-c8fe-44ea-82ee-2decffb0a55f.OutputPath" Value="C:\Users\Zeeshan\source\repos\Kiwi\Branch\Customer\Kiwi.Branch.Customer.Business\bin\Debug\Kiwi.Branch.Customer.Business.dll" />
+    <Path Id="7322aa8c-c8fe-44ea-82ee-2decffb0a55f.OutputPathUri" Value="file:///C:/Users/Zeeshan/source/repos/Kiwi/Branch/Customer/Kiwi.Branch.Customer.Business/bin/Debug/Kiwi.Branch.Customer.Business.dll" />
+    <Path Id="75a29da3-c8f0-4a16-9a75-e7d05b306eca.OutputPath" Value="C:\Users\Zeeshan\source\repos\Kiwi\Finance\Investment\Kiwi.Finance.Investment.Business\bin\Debug\Kiwi.Finance.Investment.Business.dll" />
+    <Path Id="75a29da3-c8f0-4a16-9a75-e7d05b306eca.OutputPathUri" Value="file:///C:/Users/Zeeshan/source/repos/Kiwi/Finance/Investment/Kiwi.Finance.Investment.Business/bin/Debug/Kiwi.Finance.Investment.Business.dll" />
+    <Path Id="7750de2d-7d05-451d-ab90-32622657c1ff.OutputPath" Value="c:\users\zeeshan\source\repos\Kiwi\Foundation\Kiwi.Foundation.Boot\bin\Debug\Kiwi.Foundation.Boot.dll" />
+    <Path Id="7750de2d-7d05-451d-ab90-32622657c1ff.OutputPathUri" Value="file:///c:/users/zeeshan/source/repos/Kiwi/Foundation/Kiwi.Foundation.Boot/bin/Debug/Kiwi.Foundation.Boot.dll" />
+    <Path Id="79bcfca8-b076-46d8-a49c-cadc9c6a0b79.OutputPath" Value="C:\Users\Zeeshan\source\repos\Kiwi\Foundation\BPM\Kiwi.Foundation.BPM.Business\bin\Debug\Kiwi.Foundation.BPM.Business.dll" />
+    <Path Id="79bcfca8-b076-46d8-a49c-cadc9c6a0b79.OutputPathUri" Value="file:///C:/Users/Zeeshan/source/repos/Kiwi/Foundation/BPM/Kiwi.Foundation.BPM.Business/bin/Debug/Kiwi.Foundation.BPM.Business.dll" />
+    <Path Id="804b2a06-5824-451a-9f9c-7a6ad26c6559.OutputPath" Value="C:\Users\Zeeshan\source\repos\Kiwi\Branch\QMatic\Kiwi.Branch.QMatic.Business\bin\Debug\Kiwi.Branch.QMatic.Business.dll" />
+    <Path Id="804b2a06-5824-451a-9f9c-7a6ad26c6559.OutputPathUri" Value="file:///C:/Users/Zeeshan/source/repos/Kiwi/Branch/QMatic/Kiwi.Branch.QMatic.Business/bin/Debug/Kiwi.Branch.QMatic.Business.dll" />
+    <Path Id="8d5a92f4-0be9-48ce-b597-256e872908dc.OutputPath" Value="C:\Users\Zeeshan\source\repos\Kiwi\Foundation\RuleEngine\Kiwi.Foundation.RuleEngine.Services\bin\Kiwi.Foundation.RuleEngine.Services.dll" />
+    <Path Id="8d5a92f4-0be9-48ce-b597-256e872908dc.OutputPathUri" Value="file:///C:/Users/Zeeshan/source/repos/Kiwi/Foundation/RuleEngine/Kiwi.Foundation.RuleEngine.Services/bin/Kiwi.Foundation.RuleEngine.Services.dll" />
+    <Path Id="a43fff13-60fa-47a1-bb1c-ddab4c60ce98.OutputPath" Value="c:\users\zeeshan\source\repos\Kiwi\Kiwi.Main\bin\Debug\netcoreapp2.1\Kiwi.Main.dll" />
+    <Path Id="a43fff13-60fa-47a1-bb1c-ddab4c60ce98.OutputPathUri" Value="file:///c:/users/zeeshan/source/repos/Kiwi/Kiwi.Main/bin/Debug/netcoreapp2.1/Kiwi.Main.dll" />
+    <Path Id="a73ed1d3-97e3-4c41-ab8b-0712223286c1.OutputPath" Value="C:\Users\Zeeshan\source\repos\Kiwi\Branch\Kiwi.Branch.Boot\bin\Debug\Kiwi.Branch.Boot.dll" />
+    <Path Id="a73ed1d3-97e3-4c41-ab8b-0712223286c1.OutputPathUri" Value="file:///C:/Users/Zeeshan/source/repos/Kiwi/Branch/Kiwi.Branch.Boot/bin/Debug/Kiwi.Branch.Boot.dll" />
+    <Path Id="aaebf2bc-7c73-4ac1-b2cf-1ffd5f9222d7.OutputPath" Value="C:\Users\Zeeshan\source\repos\Kiwi\Branch\Kiwi.Branch.Backbone\bin\Debug\Kiwi.Branch.Backbone.dll" />
+    <Path Id="aaebf2bc-7c73-4ac1-b2cf-1ffd5f9222d7.OutputPathUri" Value="file:///C:/Users/Zeeshan/source/repos/Kiwi/Branch/Kiwi.Branch.Backbone/bin/Debug/Kiwi.Branch.Backbone.dll" />
+    <Path Id="ac5a29b7-1674-4933-ba57-035cfae80371.OutputPath" Value="C:\Users\Zeeshan\source\repos\Kiwi\Foundation\ORM\Kiwi.Foundation.ORM\bin\Debug\Kiwi.Foundation.ORM.dll" />
+    <Path Id="ac5a29b7-1674-4933-ba57-035cfae80371.OutputPathUri" Value="file:///C:/Users/Zeeshan/source/repos/Kiwi/Foundation/ORM/Kiwi.Foundation.ORM/bin/Debug/Kiwi.Foundation.ORM.dll" />
+    <Path Id="acd98d63-f356-4dc4-a357-c799afaf5e00.OutputPath" Value="C:\Users\Zeeshan\source\repos\Kiwi\Finance\Kiwi.Finance.Backbone\bin\Debug\Kiwi.Finance.Backbone.dll" />
+    <Path Id="acd98d63-f356-4dc4-a357-c799afaf5e00.OutputPathUri" Value="file:///C:/Users/Zeeshan/source/repos/Kiwi/Finance/Kiwi.Finance.Backbone/bin/Debug/Kiwi.Finance.Backbone.dll" />
+    <Path Id="f00fa02b-62b9-4ab5-8df8-f4c93ac86ea2.OutputPath" Value="C:\Users\Zeeshan\source\repos\Kiwi\Branch\Customer\Kiwi.Branch.Customer.Services\bin\Kiwi.Branch.Customer.Services.dll" />
+    <Path Id="f00fa02b-62b9-4ab5-8df8-f4c93ac86ea2.OutputPathUri" Value="file:///C:/Users/Zeeshan/source/repos/Kiwi/Branch/Customer/Kiwi.Branch.Customer.Services/bin/Kiwi.Branch.Customer.Services.dll" />
+  </Paths>
+</DirectedGraph>

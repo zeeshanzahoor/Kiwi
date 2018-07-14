@@ -1,0 +1,13 @@
+C:\Users\Zeeshan\source\repos\Kiwi\Foundation\BPM\Kiwi.Foundation.BPM.Business\bin\Debug\Kiwi.Foundation.BPM.Business.dll
+C:\Users\Zeeshan\source\repos\Kiwi\Foundation\BPM\Kiwi.Foundation.BPM.Business\bin\Debug\Kiwi.Foundation.BPM.Business.pdb
+C:\Users\Zeeshan\source\repos\Kiwi\Foundation\BPM\Kiwi.Foundation.BPM.Business\bin\Debug\Kiwi.Foundation.Backbone.dll
+C:\Users\Zeeshan\source\repos\Kiwi\Foundation\BPM\Kiwi.Foundation.BPM.Business\bin\Debug\Kiwi.Foundation.Backbone.pdb
+C:\Users\Zeeshan\source\repos\Kiwi\Foundation\BPM\Kiwi.Foundation.BPM.Business\obj\Debug\Kiwi.Foundation.BPM.Business.csproj.CoreCompileInputs.cache
+C:\Users\Zeeshan\source\repos\Kiwi\Foundation\BPM\Kiwi.Foundation.BPM.Business\obj\Debug\Kiwi.Foundation.BPM.Business.csproj.CopyComplete
+C:\Users\Zeeshan\source\repos\Kiwi\Foundation\BPM\Kiwi.Foundation.BPM.Business\obj\Debug\Kiwi.Foundation.BPM.Business.dll
+C:\Users\Zeeshan\source\repos\Kiwi\Foundation\BPM\Kiwi.Foundation.BPM.Business\obj\Debug\Kiwi.Foundation.BPM.Business.pdb
+C:\Users\Zeeshan\source\repos\Kiwi\Foundation\BPM\Kiwi.Foundation.BPM.Business\bin\Debug\Kiwi.Branch.Backbone.dll
+C:\Users\Zeeshan\source\repos\Kiwi\Foundation\BPM\Kiwi.Foundation.BPM.Business\bin\Debug\Kiwi.Branch.Backbone.pdb
+C:\Users\Zeeshan\source\repos\Kiwi\Foundation\BPM\Kiwi.Foundation.BPM.Business\obj\Debug\Kiwi.Foundation.BPM.Business.csprojAssemblyReference.cache
+C:\Users\Zeeshan\source\repos\Kiwi\Foundation\BPM\Kiwi.Foundation.BPM.Business\bin\Debug\Kiwi.Finance.Backbone.dll
+C:\Users\Zeeshan\source\repos\Kiwi\Foundation\BPM\Kiwi.Foundation.BPM.Business\bin\Debug\Kiwi.Finance.Backbone.pdb

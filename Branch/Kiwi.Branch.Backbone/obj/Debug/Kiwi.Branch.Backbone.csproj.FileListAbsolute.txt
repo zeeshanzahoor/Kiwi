@@ -1,0 +1,5 @@
+C:\Users\Zeeshan\source\repos\Kiwi\Branch\Kiwi.Branch.Backbone\bin\Debug\Kiwi.Branch.Backbone.dll
+C:\Users\Zeeshan\source\repos\Kiwi\Branch\Kiwi.Branch.Backbone\bin\Debug\Kiwi.Branch.Backbone.pdb
+C:\Users\Zeeshan\source\repos\Kiwi\Branch\Kiwi.Branch.Backbone\obj\Debug\Kiwi.Branch.Backbone.csproj.CoreCompileInputs.cache
+C:\Users\Zeeshan\source\repos\Kiwi\Branch\Kiwi.Branch.Backbone\obj\Debug\Kiwi.Branch.Backbone.dll
+C:\Users\Zeeshan\source\repos\Kiwi\Branch\Kiwi.Branch.Backbone\obj\Debug\Kiwi.Branch.Backbone.pdb

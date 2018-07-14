@@ -1,0 +1,13 @@
+C:\Users\Zeeshan\source\repos\Kiwi\Branch\QMatic\Kiwi.Branch.QMatic.Business\bin\Debug\Kiwi.Branch.QMatic.Business.dll
+C:\Users\Zeeshan\source\repos\Kiwi\Branch\QMatic\Kiwi.Branch.QMatic.Business\bin\Debug\Kiwi.Branch.QMatic.Business.pdb
+C:\Users\Zeeshan\source\repos\Kiwi\Branch\QMatic\Kiwi.Branch.QMatic.Business\bin\Debug\Kiwi.Branch.Backbone.dll
+C:\Users\Zeeshan\source\repos\Kiwi\Branch\QMatic\Kiwi.Branch.QMatic.Business\bin\Debug\Kiwi.Branch.Backbone.pdb
+C:\Users\Zeeshan\source\repos\Kiwi\Branch\QMatic\Kiwi.Branch.QMatic.Business\obj\Debug\Kiwi.Branch.QMatic.Business.csprojAssemblyReference.cache
+C:\Users\Zeeshan\source\repos\Kiwi\Branch\QMatic\Kiwi.Branch.QMatic.Business\obj\Debug\Kiwi.Branch.QMatic.Business.csproj.CoreCompileInputs.cache
+C:\Users\Zeeshan\source\repos\Kiwi\Branch\QMatic\Kiwi.Branch.QMatic.Business\obj\Debug\Kiwi.Branch.QMatic.Business.csproj.CopyComplete
+C:\Users\Zeeshan\source\repos\Kiwi\Branch\QMatic\Kiwi.Branch.QMatic.Business\obj\Debug\Kiwi.Branch.QMatic.Business.dll
+C:\Users\Zeeshan\source\repos\Kiwi\Branch\QMatic\Kiwi.Branch.QMatic.Business\obj\Debug\Kiwi.Branch.QMatic.Business.pdb
+C:\Users\Zeeshan\source\repos\Kiwi\Branch\QMatic\Kiwi.Branch.QMatic.Business\bin\Debug\Kiwi.Finance.Backbone.dll
+C:\Users\Zeeshan\source\repos\Kiwi\Branch\QMatic\Kiwi.Branch.QMatic.Business\bin\Debug\Kiwi.Foundation.Backbone.dll
+C:\Users\Zeeshan\source\repos\Kiwi\Branch\QMatic\Kiwi.Branch.QMatic.Business\bin\Debug\Kiwi.Finance.Backbone.pdb
+C:\Users\Zeeshan\source\repos\Kiwi\Branch\QMatic\Kiwi.Branch.QMatic.Business\bin\Debug\Kiwi.Foundation.Backbone.pdb

@@ -1,0 +1,13 @@
+C:\Users\Zeeshan\source\repos\Kiwi\Foundation\RuleEngine\Kiwi.Foundation.RuleEngine.Business\bin\Debug\Kiwi.Foundation.RuleEngine.Business.dll
+C:\Users\Zeeshan\source\repos\Kiwi\Foundation\RuleEngine\Kiwi.Foundation.RuleEngine.Business\bin\Debug\Kiwi.Foundation.RuleEngine.Business.pdb
+C:\Users\Zeeshan\source\repos\Kiwi\Foundation\RuleEngine\Kiwi.Foundation.RuleEngine.Business\bin\Debug\Kiwi.Foundation.Backbone.dll
+C:\Users\Zeeshan\source\repos\Kiwi\Foundation\RuleEngine\Kiwi.Foundation.RuleEngine.Business\bin\Debug\Kiwi.Foundation.Backbone.pdb
+C:\Users\Zeeshan\source\repos\Kiwi\Foundation\RuleEngine\Kiwi.Foundation.RuleEngine.Business\obj\Debug\Kiwi.Foundation.RuleEngine.Business.csprojAssemblyReference.cache
+C:\Users\Zeeshan\source\repos\Kiwi\Foundation\RuleEngine\Kiwi.Foundation.RuleEngine.Business\obj\Debug\Kiwi.Foundation.RuleEngine.Business.csproj.CoreCompileInputs.cache
+C:\Users\Zeeshan\source\repos\Kiwi\Foundation\RuleEngine\Kiwi.Foundation.RuleEngine.Business\obj\Debug\Kiwi.Foundation.RuleEngine.Business.csproj.CopyComplete
+C:\Users\Zeeshan\source\repos\Kiwi\Foundation\RuleEngine\Kiwi.Foundation.RuleEngine.Business\obj\Debug\Kiwi.Foundation.RuleEngine.Business.dll
+C:\Users\Zeeshan\source\repos\Kiwi\Foundation\RuleEngine\Kiwi.Foundation.RuleEngine.Business\obj\Debug\Kiwi.Foundation.RuleEngine.Business.pdb
+C:\Users\Zeeshan\source\repos\Kiwi\Foundation\RuleEngine\Kiwi.Foundation.RuleEngine.Business\bin\Debug\Kiwi.Branch.Backbone.dll
+C:\Users\Zeeshan\source\repos\Kiwi\Foundation\RuleEngine\Kiwi.Foundation.RuleEngine.Business\bin\Debug\Kiwi.Branch.Backbone.pdb
+C:\Users\Zeeshan\source\repos\Kiwi\Foundation\RuleEngine\Kiwi.Foundation.RuleEngine.Business\bin\Debug\Kiwi.Finance.Backbone.dll
+C:\Users\Zeeshan\source\repos\Kiwi\Foundation\RuleEngine\Kiwi.Foundation.RuleEngine.Business\bin\Debug\Kiwi.Finance.Backbone.pdb

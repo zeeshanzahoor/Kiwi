@@ -1,0 +1,5 @@
+C:\Users\Zeeshan\source\repos\Kiwi\Branch\Kiwi.Branch.Boot\bin\Debug\Kiwi.Branch.Boot.dll
+C:\Users\Zeeshan\source\repos\Kiwi\Branch\Kiwi.Branch.Boot\bin\Debug\Kiwi.Branch.Boot.pdb
+C:\Users\Zeeshan\source\repos\Kiwi\Branch\Kiwi.Branch.Boot\obj\Debug\Kiwi.Branch.Boot.csproj.CoreCompileInputs.cache
+C:\Users\Zeeshan\source\repos\Kiwi\Branch\Kiwi.Branch.Boot\obj\Debug\Kiwi.Branch.Boot.dll
+C:\Users\Zeeshan\source\repos\Kiwi\Branch\Kiwi.Branch.Boot\obj\Debug\Kiwi.Branch.Boot.pdb
